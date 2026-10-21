@@ -1,0 +1,69 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Hyatt",
+            "BillingStreet": "5 Embarcadero Center",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94111",
+            "Phone": "(415) 788-1234",
+            "Website": "www.hyatt.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Marriott Marquis",
+            "BillingStreet": "780 Mission St",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94103",
+            "Phone": "(415) 896-1600",
+            "Website": "www.marriott.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Hilton Union Square",
+            "BillingStreet": "333 O Farrell St",
+            "BillingCity": "San Francisco",
+            "BillingState": "CA",
+            "BillingPostalCode": "94102",
+            "Phone": "(415) 771-1400",
+            "Website": "www.hilton.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Name": "Test Account 1",
+            "BillingStreet": "123 Main St",
+            "BillingCity": "Boston",
+            "BillingState": "MA",
+            "BillingPostalCode": "02110",
+            "Phone": "5551112222",
+            "Website": "https://example.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Name": "Test Account 2",
+            "BillingStreet": "456 Main St",
+            "BillingCity": "Chicago",
+            "BillingState": "IL",
+            "BillingPostalCode": "60601",
+            "Phone": "5553334444",
+            "Website": "https://example2.com"
+        }
+    ]
+}
